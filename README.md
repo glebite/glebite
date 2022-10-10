@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glebite
+- 👋 Hi, I’m @glebite - I am nobody special.  I am but a leaf in the wind.
 - 👀 I’m interested in: python, teaching, learning, Farsi, automation
 - 🌱 I’m currently learning: python, Stoicism, Farsi, publishing, stuff (do you like stuff?)
 - 💞️ I’m looking to collaborate on: python stuff, learning things, teaching things...
